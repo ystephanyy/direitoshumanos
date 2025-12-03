@@ -5,6 +5,14 @@ body {
   color: #6B6B6B;
 }
 
+.gif-fixo {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 200px;
+    z-index: 1000;
+}
+
 header {
   background-color: #000000;
   padding: 10px 20px;
